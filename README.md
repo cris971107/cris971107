@@ -1,6 +1,3 @@
-<div align="center">
-    <img alt="cristian-barrientos-tech" src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=300&q=80" width="300"/>
-</div>
 
 <h1 align="center">Hi I'm Cristian Barrientos, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
