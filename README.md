@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi I'm Cristian Barrientos, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+  
+  <img width="1696" height="624" alt="Portada" src="https://github.com/user-attachments/assets/039fc090-e185-41a3-b12b-ed3a5fd0f57f" />
+
 ## About Me :
 
 - 🏢 I am currently looking for a job as a **Data analyst** 
