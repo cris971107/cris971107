@@ -34,6 +34,7 @@
 <img src="https://img.icons8.com/color/48/000000/settings-3.png" title="Siemens TIA Portal"/> <img src="https://img.icons8.com/color/48/000000/automatic.png" title="PLC"/> <img src="https://img.icons8.com/color/48/000000/circuit.png" title="Control Systems"/>
 
 ### 🛠️ Engineering Software
-<img src="https://img.icons8.com/color/48/000000/autocad.png" title="AutoCAD / CATIA"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" title="MATLAB"/> <img src="https://img.icons8.com/color/48/000000/v.png" title="LabVIEW"/>
+<img src="https://img.icons8.com/color/48/000000/autocad.png" title="AutoCAD / CATIA"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" title="MATLAB"/> 
+<img src="https://img.icons8.com/color/48/000000/v.png" title="LabVIEW"/>
 
 <br>
