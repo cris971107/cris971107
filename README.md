@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi I'm Cristian Barrientos, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-  
-  <img width="1696" height="624" alt="Portada" src="https://github.com/user-attachments/assets/039fc090-e185-41a3-b12b-ed3a5fd0f57f" />
+<img width="1696" height="536" alt="Portada" src="https://github.com/user-attachments/assets/7f76ccd1-28af-4330-ad5e-d0793bea2064" />
+
 
 ## About Me :
 
