@@ -25,10 +25,11 @@
 
 ## What I am Good at 🧑‍💻 :
 ### 📊 Data Analysis & Visualization
-Tableau <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" title="Tableau"/> &nbsp; 
-Power BI <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/> 
-Excel <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" title="Excel"/> 
-Google Sheets <img src="https://img.icons8.com/color/48/000000/google-sheets.png" title="Google Sheets"/>
+
+- Tableau <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" title="Tableau"/> &nbsp; 
+- Power BI <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/> 
+- Excel <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" title="Excel"/> 
+- Google Sheets <img src="https://img.icons8.com/color/48/000000/google-sheets.png" title="Google Sheets"/>
 
 
 ### 💻 Programming Languages
