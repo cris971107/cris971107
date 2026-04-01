@@ -10,7 +10,7 @@
 - 🎓 Studies for Mechatronic Engineering at [Universidad de las Americas Puebla](https://www.udlap.mx/web/)
 - 🎓 Studies for Data Analyst at [Tripleten](https://tripleten.mx/)
 - 🏡'Lives in **Puebla, Mexico**
-- 💻 My page: [Page](https://cris971107.github.io/)
+- 💻 My page | Portfolio: [Page](https://cris971107.github.io/)
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
