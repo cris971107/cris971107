@@ -25,16 +25,26 @@
 
 ## What I am Good at 🧑‍💻 :
 ### 📊 Data Analysis & Visualization
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" title="Tableau"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" title="Excel"/> <img src="https://img.icons8.com/color/48/000000/google-sheets.png" title="Google Sheets"/>
+Tableau <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" title="Tableau"/> &nbsp; 
+Power BI <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/> 
+Excel <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" title="Excel"/> 
+Google Sheets <img src="https://img.icons8.com/color/48/000000/google-sheets.png" title="Google Sheets"/>
+
 
 ### 💻 Programming Languages
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="SQL"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
+Python <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
+MySQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="SQL"/>
+C++ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
+C <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
 
 ### ⚙️ Automation & Control (PLC)
-<img src="https://img.icons8.com/color/48/000000/settings-3.png" title="Siemens TIA Portal"/> <img src="https://img.icons8.com/color/48/000000/automatic.png" title="PLC"/> <img src="https://img.icons8.com/color/48/000000/circuit.png" title="Control Systems"/>
+TIA Portal <img src="https://img.icons8.com/color/48/000000/settings-3.png" title="Siemens TIA Portal"/> 
+PLC <img src="https://img.icons8.com/color/48/000000/automatic.png" title="PLC"/> 
+Control Systems <img src="https://img.icons8.com/color/48/000000/circuit.png" title="Control Systems"/>
 
 ### 🛠️ Engineering Software
-<img src="https://img.icons8.com/color/48/000000/autocad.png" title="AutoCAD / CATIA"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" title="MATLAB"/> 
-<img src="https://img.icons8.com/color/48/000000/v.png" title="LabVIEW"/>
+AutoCAD <img src="https://img.icons8.com/color/48/000000/autocad.png" title="AutoCAD / CATIA"/> 
+MATLAB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" title="MATLAB"/> 
+LabVIEW <img src="https://img.icons8.com/color/48/000000/v.png" title="LabVIEW"/>
 
 <br>
