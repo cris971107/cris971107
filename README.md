@@ -34,7 +34,8 @@
 
 ### 💻 Programming Languages
 
-- Python <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/> 
+- Python
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/> 
 - My SQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="SQL"/>  
 - C++ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>  
 - C <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/> 
